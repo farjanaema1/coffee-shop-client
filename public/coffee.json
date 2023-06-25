@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "Black Coffee",
+        "brand" : "CANON",
+        "stock" : "avaiable",
+        "price" : 30,
+        "img" : "https://i.ibb.co/qkQbYc1/blackcoffee.png"
+    },
+    {
+        "name" : "Cafe au Lait",
+        "brand" : "APPLE",
+        "stock" : "avaiable",
+        "price" : 40,
+        "img" : "https://i.ibb.co/xJjhx8b/cafe-au-lait.png"
+    },
+    {
+        "name" : "Brewed Coffee",
+        "brand" : "PALM",
+        "stock" : "avaiable",
+        "price" : 50,
+        "img" : "https://i.ibb.co/tbJnsT1/brewedcoffee.png"
+    },
+    {
+        "name" : "Cappuccino",
+        "brand" : "CANON",
+        "stock" : "avaiable",
+        "price" : 70,
+        "img" : "https://i.ibb.co/BVnZ9s3/cappuccino.png"
+    },
+    {
+        "name" : "Cold Brew",
+        "brand" : "SONY",
+        "stock" : "avaiable",
+        "price" : 20,
+        "img" : "https://i.ibb.co/xJjhx8b/cafe-au-lait.png"
+    },
+    {
+        "name" : "Mezzaroma",
+        "brand" : "APPLE",
+        "stock" : "stockout",
+        "price" : 100,
+        "img" : "https://i.ibb.co/bsSmM3G/coffee9.jpg"
+    },
+    {
+        "name" : "EvoCoffee",
+        "brand" : "CANON",
+        "stock" : "avaiable",
+        "price" : 150,
+        "img" : "https://i.ibb.co/1v44SyR/coffee10.jpg"
+    },
+    {
+        "name" : "Coffe Eviva",
+        "brand" : "SONY",
+        "stock" : "avaiable",
+        "price" : 150,
+        "img" : "https://i.ibb.co/xfTytkM/coffee11.jpg"
+    }
+]
